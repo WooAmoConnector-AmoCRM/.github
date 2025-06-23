@@ -45,7 +45,7 @@ Sync WooCommerce orders, customers, and products with AmoCRM using WooAmoConnect
 ### 🖼 Preview
 
 WooAmoConnector plugin settings panel inside WordPress dashboard  
-![Screenshot](https://wpcraft.ru/wp-content/uploads/2023/02/screenshot-1.png)  
+![Screenshot](https://wpcraft.ru/wp-content/uploads/2023/02/screenshot-3.png)  
 *Connect your store to your sales engine — instantly*
 
 ---
